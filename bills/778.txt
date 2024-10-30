@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:778
+
+Customer Name:gds
+
+Phone Number:rugeghr
+
+==================================================Product		Quantity		Price
+==================================================Oil		3		300 Rs
+Maza		3		30 Rs
+--------------------------------------------------
+Groceries Tax			15.0Rs
+Cold Drink Tax			2.4Rs
+
+Total Bill 			347.4
+--------------------------------------------------

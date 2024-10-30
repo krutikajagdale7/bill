@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:823
+
+Customer Name:g
+
+Phone Number:766
+
+==================================================Product		Quantity		Price
+==================================================
+Salt		4		80 Rs
+Cold Coffee		5		250 Rs
+--------------------------------------------------
+Groceries Tax			4.0Rs
+Cold Drink Tax			20.0Rs
+Total Bill 			354.0
+--------------------------------------------------

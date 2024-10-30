@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:784
+
+Customer Name:krutika jagdale
+
+Phone Number:875243975
+
+==================================================Product		Quantity		Price
+==================================================Oil		6		600 Rs
+Maza		5		50 Rs
+--------------------------------------------------
+Groceries Tax			30.0Rs
+Cold Drink Tax			4.0Rs
+
+Total Bill 			684.0
+--------------------------------------------------

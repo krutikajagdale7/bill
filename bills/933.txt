@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:933
+
+Customer Name:krutika
+
+Phone Number:67567899
+
+==================================================Product		Quantity		Price
+==================================================
+Rice		5		250 Rs
+Sprite		9		360 Rs
+--------------------------------------------------
+Groceries Tax			12.5Rs
+Cold Drink Tax			28.8Rs
+Total Bill 			651.3
+--------------------------------------------------

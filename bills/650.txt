@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:650
+
+Customer Name:dev
+
+Phone Number:08976
+
+==================================================Product		Quantity		Price
+==================================================
+Rice		4		200 Rs
+Dew		6		180 Rs
+--------------------------------------------------
+Groceries Tax			10.0Rs
+Cold Drink Tax			14.4Rs
+Total Bill 			404.4
+--------------------------------------------------

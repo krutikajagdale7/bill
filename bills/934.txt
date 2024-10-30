@@ -1,0 +1,20 @@
+		**Welcome Custmor**
+
+Bill Number:934
+
+Customer Name:dev
+
+Phone Number:21323455566
+
+==================================================Product		Quantity		Price
+==================================================Oil		1		100 Rs
+Peanuts		2		180 Rs
+Daal		4		200 Rs
+Sprite		2		80 Rs
+Cold Coffee		4		200 Rs
+--------------------------------------------------
+Groceries Tax			24.0Rs
+Cold Drink Tax			22.400000000000002Rs
+
+Total Bill 			806.4
+--------------------------------------------------

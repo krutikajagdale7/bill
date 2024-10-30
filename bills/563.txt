@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:563
+
+Customer Name:urmila
+
+Phone Number:12345667
+
+==================================================Product		Quantity		Price
+==================================================Oil		2		200 Rs
+Sprite		7		280 Rs
+--------------------------------------------------
+Groceries Tax			10.0Rs
+Cold Drink Tax			22.400000000000002Rs
+
+Total Bill 			512.4
+--------------------------------------------------

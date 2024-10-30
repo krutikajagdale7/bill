@@ -1,0 +1,18 @@
+		**Welcome Custmor**
+
+Bill Number:967
+
+Customer Name:k
+
+Phone Number:234567
+
+==================================================Product		Quantity		Price
+==================================================
+Rice		5		250 Rs
+Sprite		6		240 Rs
+--------------------------------------------------
+Groceries Tax			12.5Rs
+Cold Drink Tax			19.2Rs
+
+Total Bill 			521.7
+--------------------------------------------------

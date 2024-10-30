@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:567
+
+Customer Name:harshada
+
+Phone Number:453688554
+
+==================================================Product		Quantity		Price
+==================================================
+Rice		5		250 Rs
+Sprite		5		200 Rs
+--------------------------------------------------
+Groceries Tax			12.5Rs
+Cold Drink Tax			16.0Rs
+Total Bill 			478.5
+--------------------------------------------------

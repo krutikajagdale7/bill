@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:508
+
+Customer Name:dhanu
+
+Phone Number:675983474
+
+==================================================Product		Quantity		Price
+==================================================Oil		1		100 Rs
+Peanuts		4		360 Rs
+Sprite		6		240 Rs
+--------------------------------------------------
+Groceries Tax			23.0Rs
+Cold Drink Tax			19.2Rs
+Total Bill 			742.2
+--------------------------------------------------

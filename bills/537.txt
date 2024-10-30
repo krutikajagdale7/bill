@@ -1,0 +1,18 @@
+		**Welcome Custmor**
+
+Bill Number:537
+
+Customer Name:devendra jagdale
+
+Phone Number:0987654356
+
+==================================================Product		Quantity		Price
+==================================================
+Rice		2		100 Rs
+Maza		2		20 Rs
+--------------------------------------------------
+Groceries Tax			5.0Rs
+Cold Drink Tax			1.6Rs
+
+Total Bill 			126.6
+--------------------------------------------------

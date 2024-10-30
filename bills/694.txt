@@ -1,0 +1,17 @@
+		**Welcome Custmor**
+
+Bill Number:694
+
+Customer Name:krutika
+
+Phone Number:108327483
+
+==================================================Product		Quantity		Price
+==================================================Oil		3		300 Rs
+Cold Coffee		4		200 Rs
+--------------------------------------------------
+Groceries Tax			15.0Rs
+Cold Drink Tax			16.0Rs
+
+Total Bill 			531.0
+--------------------------------------------------
